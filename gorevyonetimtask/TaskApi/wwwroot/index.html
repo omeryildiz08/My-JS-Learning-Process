@@ -1,0 +1,35 @@
+<html lang="tr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Task Management</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Görev Yönetimi Uygulaması</h1>
+
+    <p>Tamamlama Oranı: <span id="completionRate">%0</span></p>
+    <!--Görev Ekleme Formu --> 
+    
+    <form id="taskForm">
+        <input type="text" id="taskTitle" placeholder="Görev Başlığı" required>
+        <textarea id="taskDescription" placeholder="Görev Açıklaması" ></textarea>
+        <button type="submit">Görev Ekle</button>
+    </form>
+
+    <!-- Görevleri Filtreleme -->
+     <label>
+        <input type="checkbox" id="filterCompleted">
+        Tamamlananları Göster
+     </label>
+
+     
+    
+<button onclick="loadTasks()">Filtrele</button>
+
+     <div id="taskList"></div>
+
+     <script src="script.js"></script>
+
+</body>
+</html>

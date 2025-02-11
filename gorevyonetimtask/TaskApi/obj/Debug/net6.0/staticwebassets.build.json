@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "A3rpP32zaAr/M2k5r+2iORwYCxdIqJ86ByUGokaed8Y=",
+  "Source": "TaskApi",
+  "BasePath": "_content/TaskApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TaskApi\\wwwroot",
+      "Source": "TaskApi",
+      "ContentRoot": "C:\\Users\\omerr\\Desktop\\gorevyonetimtask\\TaskApi\\wwwroot\\",
+      "BasePath": "_content/TaskApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\omerr\\Desktop\\gorevyonetimtask\\TaskApi\\wwwroot\\index.html",
+      "SourceId": "TaskApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\omerr\\Desktop\\gorevyonetimtask\\TaskApi\\wwwroot\\",
+      "BasePath": "_content/TaskApi",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\omerr\\Desktop\\gorevyonetimtask\\TaskApi\\wwwroot\\script.js",
+      "SourceId": "TaskApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\omerr\\Desktop\\gorevyonetimtask\\TaskApi\\wwwroot\\",
+      "BasePath": "_content/TaskApi",
+      "RelativePath": "script.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\script.js"
+    },
+    {
+      "Identity": "C:\\Users\\omerr\\Desktop\\gorevyonetimtask\\TaskApi\\wwwroot\\style.css",
+      "SourceId": "TaskApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\omerr\\Desktop\\gorevyonetimtask\\TaskApi\\wwwroot\\",
+      "BasePath": "_content/TaskApi",
+      "RelativePath": "style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\style.css"
+    }
+  ]
+}
