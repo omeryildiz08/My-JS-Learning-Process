@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\omerr\\Desktop\\gorevyonetimtask\\TaskApi\\TaskApi.csproj": {}
+    "C:\\Users\\omerr\\Desktop\\My-JS-Learning-Process\\gorevyonetimtask\\TaskApi\\TaskApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\omerr\\Desktop\\gorevyonetimtask\\TaskApi\\TaskApi.csproj": {
+    "C:\\Users\\omerr\\Desktop\\My-JS-Learning-Process\\gorevyonetimtask\\TaskApi\\TaskApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\omerr\\Desktop\\gorevyonetimtask\\TaskApi\\TaskApi.csproj",
+        "projectUniqueName": "C:\\Users\\omerr\\Desktop\\My-JS-Learning-Process\\gorevyonetimtask\\TaskApi\\TaskApi.csproj",
         "projectName": "TaskApi",
-        "projectPath": "C:\\Users\\omerr\\Desktop\\gorevyonetimtask\\TaskApi\\TaskApi.csproj",
+        "projectPath": "C:\\Users\\omerr\\Desktop\\My-JS-Learning-Process\\gorevyonetimtask\\TaskApi\\TaskApi.csproj",
         "packagesPath": "C:\\Users\\omerr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\omerr\\Desktop\\gorevyonetimtask\\TaskApi\\obj\\",
+        "outputPath": "C:\\Users\\omerr\\Desktop\\My-JS-Learning-Process\\gorevyonetimtask\\TaskApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\omerr\\AppData\\Roaming\\NuGet\\NuGet.Config",

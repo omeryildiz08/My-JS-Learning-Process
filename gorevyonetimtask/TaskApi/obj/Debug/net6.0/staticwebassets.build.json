@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "A3rpP32zaAr/M2k5r+2iORwYCxdIqJ86ByUGokaed8Y=",
+  "Hash": "UkUrdOWK5rH2/3BW9R/weyzaQHWtoz6Z8ylXgPsqELk=",
   "Source": "TaskApi",
   "BasePath": "_content/TaskApi",
   "Mode": "Default",
@@ -10,17 +10,51 @@
     {
       "Name": "TaskApi\\wwwroot",
       "Source": "TaskApi",
-      "ContentRoot": "C:\\Users\\omerr\\Desktop\\gorevyonetimtask\\TaskApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\omerr\\Desktop\\My-JS-Learning-Process\\gorevyonetimtask\\TaskApi\\wwwroot\\",
       "BasePath": "_content/TaskApi",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\omerr\\Desktop\\gorevyonetimtask\\TaskApi\\wwwroot\\index.html",
+      "Identity": "C:\\Users\\omerr\\Desktop\\My-JS-Learning-Process\\gorevyonetimtask\\TaskApi\\wwwroot\\assets\\index-CVdeDvlQ.js",
       "SourceId": "TaskApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\omerr\\Desktop\\gorevyonetimtask\\TaskApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\omerr\\Desktop\\My-JS-Learning-Process\\gorevyonetimtask\\TaskApi\\wwwroot\\",
+      "BasePath": "_content/TaskApi",
+      "RelativePath": "assets/index-CVdeDvlQ.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\index-CVdeDvlQ.js"
+    },
+    {
+      "Identity": "C:\\Users\\omerr\\Desktop\\My-JS-Learning-Process\\gorevyonetimtask\\TaskApi\\wwwroot\\assets\\index-kQJbKSsj.css",
+      "SourceId": "TaskApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\omerr\\Desktop\\My-JS-Learning-Process\\gorevyonetimtask\\TaskApi\\wwwroot\\",
+      "BasePath": "_content/TaskApi",
+      "RelativePath": "assets/index-kQJbKSsj.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\index-kQJbKSsj.css"
+    },
+    {
+      "Identity": "C:\\Users\\omerr\\Desktop\\My-JS-Learning-Process\\gorevyonetimtask\\TaskApi\\wwwroot\\index.html",
+      "SourceId": "TaskApi",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\omerr\\Desktop\\My-JS-Learning-Process\\gorevyonetimtask\\TaskApi\\wwwroot\\",
       "BasePath": "_content/TaskApi",
       "RelativePath": "index.html",
       "AssetKind": "All",
@@ -34,12 +68,12 @@
       "OriginalItemSpec": "wwwroot\\index.html"
     },
     {
-      "Identity": "C:\\Users\\omerr\\Desktop\\gorevyonetimtask\\TaskApi\\wwwroot\\script.js",
+      "Identity": "C:\\Users\\omerr\\Desktop\\My-JS-Learning-Process\\gorevyonetimtask\\TaskApi\\wwwroot\\vite.svg",
       "SourceId": "TaskApi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\omerr\\Desktop\\gorevyonetimtask\\TaskApi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\omerr\\Desktop\\My-JS-Learning-Process\\gorevyonetimtask\\TaskApi\\wwwroot\\",
       "BasePath": "_content/TaskApi",
-      "RelativePath": "script.js",
+      "RelativePath": "vite.svg",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -48,24 +82,7 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\script.js"
-    },
-    {
-      "Identity": "C:\\Users\\omerr\\Desktop\\gorevyonetimtask\\TaskApi\\wwwroot\\style.css",
-      "SourceId": "TaskApi",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\omerr\\Desktop\\gorevyonetimtask\\TaskApi\\wwwroot\\",
-      "BasePath": "_content/TaskApi",
-      "RelativePath": "style.css",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\style.css"
+      "OriginalItemSpec": "wwwroot\\vite.svg"
     }
   ]
 }

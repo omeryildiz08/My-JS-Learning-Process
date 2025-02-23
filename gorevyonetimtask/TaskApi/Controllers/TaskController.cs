@@ -42,19 +42,28 @@ namespace TaskApi.Controllers
             }
 
             _taskRepository.AddTask(task);
-            return Ok();
+
+            /*return Ok(new {id = task.Id,
+            title = task.Title,
+            description = task.Description,
+            createdAt = task.CreatedAt,
+            isCompleted = task.IsCompleted}); */
+            return Ok(task);    
         }
 
         [HttpPut("{id}")]
         public IActionResult UpdateTask(int id,[FromBody] TaskModel task)
         {
-            if(!ModelState.IsValid)
+            
+             if(!ModelState.IsValid)
             {
                 return BadRequest(ModelState);
             }
 
+            task.Id = id;
+
             _taskRepository.UpdateTask(id,task);
-            return Ok();
+            return Ok(task);
         }
 
         [HttpDelete("{id}")]

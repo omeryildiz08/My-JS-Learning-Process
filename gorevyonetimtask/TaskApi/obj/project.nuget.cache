@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PNfhEiDuhrM4ueL2z7aT7Zv+N1IniHhKdYKKV+BPUCDzHkXTmwYe3S2Uu+uXVAyOd+JL9dfJeYsdayPa1PIy4g==",
+  "dgSpecHash": "u1SYr+3+Mg6BzZEoG4PVK0bG6FWePgpMolAjaEtB0Q95/dOCvqEUCxg5Jcq3VZEAagXnQbfcIXY/3wMWo/mRwQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\omerr\\Desktop\\gorevyonetimtask\\TaskApi\\TaskApi.csproj",
+  "projectFilePath": "C:\\Users\\omerr\\Desktop\\My-JS-Learning-Process\\gorevyonetimtask\\TaskApi\\TaskApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\omerr\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\omerr\\.nuget\\packages\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
