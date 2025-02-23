@@ -1,0 +1,1 @@
+//toplam fiyat hesaplaması yapılan komponent

@@ -1,0 +1,42 @@
+{
+    "processors": [
+    {"id": 1, "name": "Intel i5 12400F", "compatible_motherboards": [1, 2],
+    "power": 65, "price": 200},
+    {"id": 2, "name": "AMD Ryzen 5 5600X", "compatible_motherboards": [3, 4],
+    "power": 65, "price": 250}
+    ],
+    "motherboards": [
+    {"id": 1, "name": "Asus B560M", "compatible_ram": [1, 2], "compatible_gpu":
+    [1, 2], "compatible_storage": [1, 2], "price": 150},
+    {"id": 2, "name": "MSI B450 Tomahawk", "compatible_ram": [3, 4],
+    "compatible_gpu": [3, 4], "compatible_storage": [3, 4], "price": 140}
+    ],
+    "ram": [
+    {"id": 1, "name": "Corsair 16GB DDR4 3200MHz", "compatible_motherboards":
+    [1, 2], "price": 80},
+    {"id": 2, "name": "G.Skill 16GB DDR4 3600MHz", "compatible_motherboards":
+    [1, 2], "price": 90}
+    ],
+    "gpu": [
+    {"id": 1, "name": "NVIDIA RTX 3060", "compatible_motherboards": [1, 2],
+    "power": 170, "price": 350},
+    {"id": 2, "name": "AMD RX 6600XT", "compatible_motherboards": [3, 4],
+    "power": 160, "price": 320}
+    ],
+    "storage": [
+    {"id": 1, "name": "Samsung 970 EVO 1TB NVMe", "compatible_motherboards":
+    [1, 2], "price": 120},
+    {"id": 2, "name": "WD Blue 2TB HDD", "compatible_motherboards": [1, 2],
+    "price": 80}
+    ],
+    "power_supply": [
+    {"id": 1, "name": "Corsair 650W 80+ Gold", "power": 650, "price": 100},
+    {"id": 2, "name": "EVGA 750W 80+ Bronze", "power": 750, "price": 120}
+    ],
+    "case": [
+    {"id": 1, "name": "Cooler Master Mid Tower", "compatible_motherboards": [1,
+    2, 3, 4], "price": 90},
+    {"id": 2, "name": "NZXT H510", "compatible_motherboards": [1, 2, 3, 4],
+    "price": 110}
+    ]
+    }
