@@ -16,7 +16,7 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddCors(options => {
     options.AddPolicy("AllowAll", policy => 
         policy.AllowAnyOrigin()
-              .AllowAnyMethod() // ✅ PUT ve DELETE dahil
+              .AllowAnyMethod() 
               .AllowAnyHeader());
 });
 var app = builder.Build();
